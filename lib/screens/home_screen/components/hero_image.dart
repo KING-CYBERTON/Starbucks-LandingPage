@@ -22,14 +22,8 @@ class HeroImage extends StatelessWidget {
       children: [
         CircleAvatar(
           radius: circleRadius,
-          backgroundColor: Colors.deepOrange.shade400,
-        ),
-        Positioned(
-          bottom: bottom,
-          child: Image.asset(
-            'assets/images/ramsai.png',
-            height: imageHeight,
-            width: imageWidth ?? mediaQuery.width * 0.25,
+          backgroundImage: AssetImage(
+            'assets/images/shoe.jpg',
           ),
         ),
       ],

@@ -9,11 +9,11 @@ const servingItems = [
   ServingItem(
     title: "Donut",
     text: "Have a donut with the frappuccinno",
-    imgUrl: "assets/images/donut.png",
+    imgUrl: "assets/images/Screenshoe.jpg",
   ),
   ServingItem(
-    title: "Cookies",
-    text: "Enjoy our sugar free cookies",
-    imgUrl: "assets/images/cookies.png",
+    title: "J11 cool grey",
+    text: "nice kicks for a nice time",
+    imgUrl: "assets/images/shoo4.jpg",
   ),
 ];
